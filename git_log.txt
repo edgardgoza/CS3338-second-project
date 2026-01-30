@@ -1,0 +1,45 @@
+commit 225e58a1e9b8be7a0774fc370d66f0e600c17621
+Merge: 5073789 21d928b
+Author: Edgard <edgardgoza@gmail.com>
+Date:   Fri Jan 30 11:20:38 2026 -0800
+
+    Resolve merge conflict
+
+commit 21d928b4ec43e872c881415e783a3745c0f4b70f
+Author: Edgard <edgardgoza@gmail.com>
+Date:   Fri Jan 30 11:16:56 2026 -0800
+
+    Add favorite game
+
+commit 5073789ed266b67e5f3822c9367027a59ac603be
+Author: Edgard <edgardgoza@gmail.com>
+Date:   Fri Jan 30 11:14:55 2026 -0800
+
+    Add favorite food
+
+commit 6032ea4526d0dff2c8b4b38baed9da58b7260d41
+Author: Edgard <edgardgoza@gmail.com>
+Date:   Fri Jan 30 10:58:30 2026 -0800
+
+    Add README describing the repository
+
+commit d2ae04f9a3ee647827f8a62e493a40b6dce9d66e
+Merge: 1d2bfc0 c007cdc
+Author: edgardgoza <edgardgoza@gmail.com>
+Date:   Fri Jan 30 10:47:10 2026 -0800
+
+    Merge pull request #1 from edgardgoza/info-fill
+    
+    Fill in name and hobby
+
+commit c007cdcbbe2e413597d94322940991dc20ee7fca
+Author: Edgard <edgardgoza@gmail.com>
+Date:   Fri Jan 30 10:37:53 2026 -0800
+
+    Fill in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
